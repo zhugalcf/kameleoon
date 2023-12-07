@@ -1,5 +1,5 @@
-# kameleoon
-API:
+# API
+
   userService:
     POST: /api/v1/user 
       body: {
